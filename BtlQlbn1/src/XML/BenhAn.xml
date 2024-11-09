@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BenhAn>
+         
+   
+   <HoSo>
+                  
+      
+      <Id>1</Id>
+                  
+      
+      <TrieuChung>Ho</TrieuChung>
+                  
+      
+      <ChanDoan>Viêm phổi</ChanDoan>
+                  
+      
+      <ChiDinh>Chụp X-quang</ChiDinh>
+                  
+      
+      <KetLuan>Viêm phổi nhẹ</KetLuan>
+                  
+      
+      <DonThuoc>Paracetamol, Kháng sinh</DonThuoc>
+               
+   
+   </HoSo>
+      
+   
+   <HoSo>
+            
+      <Id>12</Id>
+            
+      <TrieuChung>12</TrieuChung>
+            
+      <ChanDoan>12</ChanDoan>
+            
+      <ChiDinh>12</ChiDinh>
+            
+      <KetLuan>12</KetLuan>
+            
+      <DonThuoc>12</DonThuoc>
+         
+   </HoSo>
+   
+   <HoSo>
+      <Id>3</Id>
+      <TrieuChung>23</TrieuChung>
+      <ChanDoan>ádfasdf</ChanDoan>
+      <ChiDinh>ádfasdf</ChiDinh>
+      <KetLuan>ádfasdf</KetLuan>
+      <DonThuoc>ádfasdf</DonThuoc>
+   </HoSo>
+</BenhAn>

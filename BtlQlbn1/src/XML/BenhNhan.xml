@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BenhNhan>
+               
+   
+   
+   
+   <ThongTin>
+                              
+      
+      
+      
+      <Id>1</Id>
+                              
+      
+      
+      
+      <Ten>Nguyen Van A</Ten>
+                              
+      
+      
+      
+      <NgayKham>17/10/2004</NgayKham>
+                              
+      
+      
+      
+      <Tuoi>40</Tuoi>
+                              
+      
+      
+      
+      <DiaChi>123 Nguyen Trai, Ha Noi</DiaChi>
+                              
+      
+      
+      
+      <SoDienThoai>0912356517</SoDienThoai>
+                              
+      
+      
+      
+      <GioiTinh>Nam</GioiTinh>
+                              
+      
+      
+      
+      <YeuCau>Ho khan</YeuCau>
+                           
+   
+   
+   
+   </ThongTin>
+            
+   
+   
+   
+   <ThongTin>
+                        
+      
+      
+      <Id>12</Id>
+                        
+      
+      
+      <Ten>12</Ten>
+                        
+      
+      
+      <NgayKham>12/12/12</NgayKham>
+                        
+      
+      
+      <Tuoi>12</Tuoi>
+                        
+      
+      
+      <DiaChi>12</DiaChi>
+                        
+      
+      
+      <SoDienThoai>12</SoDienThoai>
+                        
+      
+      
+      <GioiTinh>Nam</GioiTinh>
+                        
+      
+      
+      <YeuCau>12</YeuCau>
+                     
+   
+   
+   </ThongTin>
+         
+   
+   
+   <ThongTin>
+                  
+      
+      <Id>32</Id>
+                  
+      
+      <Ten>32</Ten>
+                  
+      
+      <NgayKham>3/3/3</NgayKham>
+                  
+      
+      <Tuoi>333</Tuoi>
+                  
+      
+      <DiaChi>33</DiaChi>
+                  
+      
+      <SoDienThoai>3</SoDienThoai>
+                  
+      
+      <GioiTinh>Nam</GioiTinh>
+                  
+      
+      <YeuCau>3</YeuCau>
+               
+   
+   </ThongTin>
+      
+   
+   <ThongTin>
+            
+      <Id>122</Id>
+            
+      <Ten>12</Ten>
+            
+      <NgayKham>12/12/12</NgayKham>
+            
+      <Tuoi>12</Tuoi>
+            
+      <DiaChi>e</DiaChi>
+            
+      <SoDienThoai>12</SoDienThoai>
+            
+      <GioiTinh>Nam</GioiTinh>
+            
+      <YeuCau>e</YeuCau>
+         
+   </ThongTin>
+   
+   <ThongTin>
+      <Id>1</Id>
+      <Ten>ádfasdf</Ten>
+      <NgayKham>12/12/1312</NgayKham>
+      <Tuoi>12</Tuoi>
+      <DiaChi>123asdf</DiaChi>
+      <SoDienThoai>12334234</SoDienThoai>
+      <GioiTinh>Nữ</GioiTinh>
+      <YeuCau>ádfadfaefasdf</YeuCau>
+   </ThongTin>
+</BenhNhan>
